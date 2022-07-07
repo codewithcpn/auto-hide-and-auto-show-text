@@ -1,0 +1,1 @@
+# auto-hide-and-auto-show-text
