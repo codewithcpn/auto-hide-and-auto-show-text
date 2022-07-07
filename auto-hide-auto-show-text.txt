@@ -1,0 +1,143 @@
+<div class="container">
+<div class="row">
+            <div class="col-md-12">
+                <center><b><h4>Life Insurance Faqs</h4></b></center><br><br>
+                <div class="accordion" id="accordionExample">
+                  <div class="card">
+                    <div class="card-header" id="headingOne">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                         <span class="plus"> + </span> Can I borrow money with a whole life insurance policy?
+                        </button>
+                      </h5>
+                    </div>
+                
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                      <div class="card-body">
+                          Yes, you can borrow money against a whole life insurance policy.
+                      </div>
+                    </div>
+                  </div><br>
+                  <div class="card">
+                    <div class="card-header" id="headingTwo">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <span class="plus"> + </span> Does smoking affect my life insurance premium?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                      <div class="card-body">
+                          Yes, it does affect your premium. Smokers have to pay slightly higher premium than non-smokers.
+                       </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingThree">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                         <span class="plus"> + </span> Can I have multiple life insurance policies?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headinThree" data-parent="#accordionExample">
+                      <div class="card-body">
+                          Yes, you can become the policyholder of multiple life insurance policies, provided you meet certain terms and conditions.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingFour">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                         <span class="plus"> + </span> Are there life insurance plan options available for children?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                      <div class="card-body">
+                          Yes, there are life insurance policies that are specially customised for the unique needs of children. Such plans enable parents or legal guardians to financially plan and secure their child’s future in their absence for goals like higher education, marriage, etc.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingFive">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                         <span class="plus"> + </span> What does a life insurance policy not cover?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                      <div class="card-body">
+                          <p>Life insurance policies do not cover the following:</p>
+                          <ul>
+                              <li> 1: Injury of loss of life due to participation in illegal activities</li>
+                              <li> 2: Self-inflicted injury and suicide</li>
+                              <li> 3: Participation in adventure sports</li>
+                              <li> 4: HIV and other sexually transmitted diseases</li>
+                              <li> 5: Waiting period of 3 months since the registration of life insurance policy</li>
+                          </ul>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingSix">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                          <span class="plus"> + </span> Why is life insurance more expensive for men than for women?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                      <div class="card-body">
+                          It is known that women live longer than men. This causes life insurance companies to interpret women as lower-risk applicants than men, causing insurers to increase their premium amounts for men.
+                       </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingSeven">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                         <span class="plus"> + </span> What is a ‘bonus’ in life insurance?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                      <div class="card-body">
+                          The bonus in life insurance refers to the additional amount that a policyholder can receive during the term of the policy or at its expiry after making the required premium payments within the predetermined time period. This amount is a percentage of the sum insured that the insurance company pays from the profit it generates during a financial year. Only a profitable life insurance policy can benefit from it.
+                       </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingEight">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                          <span class="plus"> + </span> How to assign life insurance benefits to someone else?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+                      <div class="card-body">
+                          You can transfer your title, rights and interests in a life insurance policy to another entity by assigning it. This is generally done to provide security against a loan or to secure the financial interests of the other individual. Once the life insurance policy is awarded, the beneficiary will reap the benefits. The policyholder must send the insurer the assignment form, indicating the details of the policy to be assigned. Along with this, the individual must submit the original policy and the assignee's KYC documents. The assignment can be endorsed on the copy of the life insurance policy or on a notarial assignment, confirming the execution.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header" id="headingNine">
+                      <h5 class="mb-0">
+                        <button class="btn  collapsed text-left" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                         <span class="plus"> + </span> Does life insurance cover accidental death?
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
+                      <div class="card-body">
+                          Yes, life insurance policies usually cover accidental death. If the policy specifically specifies that it does not cover death by accident or if you believe that an additional insured sum is required in the event of accidental death, an accidental death benefit can be attached to the basic plan.
+                       </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+</div>
